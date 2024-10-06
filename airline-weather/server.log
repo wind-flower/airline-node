@@ -1,0 +1,25 @@
+2024-10-06T03:27:13.997Z [INFO]: Logging setup complete.
+2024-10-06T03:27:14.009Z [INFO]: Server is running on port 3000
+2024-10-06T03:27:14.065Z [INFO]: CSV file successfully processed and loaded without duplicates.
+2024-10-06T03:27:30.412Z [INFO]: Fetched all flights
+2024-10-06T03:27:36.839Z [INFO]: Cache miss, flight 119 fetched and cached.
+2024-10-06T03:28:45.546Z [WARN]: Endpoint not found: /flights/flights/search?origin_name=General%20Mariano%20Escobedo%20International%20Airport&destination_name
+2024-10-06T03:29:08.861Z [WARN]: Endpoint not found: /flights/flights/search?origin_name=General%20Mariano%20Escobedo%20International%20Airport&destination_name=Licenciado%20Adolfo%20Lopez%20Mateos%20International%20Airport
+2024-10-06T03:29:09.724Z [WARN]: Endpoint not found: /flights/flights/search?origin_name=General%20Mariano%20Escobedo%20International%20Airport&destination_name=Licenciado%20Adolfo%20Lopez%20Mateos%20International%20Airport
+2024-10-06T03:29:22.459Z [WARN]: Endpoint not found: /flights/flights/search?origin_name=General%20Mariano%20Escobedo%20International%20Airport&destination_name=Licenciado%20Adolfo%20Lopez%20Mateos%20International%20Airport
+2024-10-06T03:34:24.001Z [INFO]: Server is running on port 3000
+2024-10-06T03:34:24.054Z [INFO]: CSV file successfully processed and loaded without duplicates.
+2024-10-06T03:34:44.378Z [WARN]: Endpoint not found: /flights/flights/search?origin_name=MTY&destination_name=TLC
+2024-10-06T03:34:53.667Z [WARN]: Endpoint not found: /flights/flights/search?origin=MTY&destination=TLC
+2024-10-06T03:34:54.426Z [WARN]: Endpoint not found: /flights/flights/search?origin=MTY&destination=TLC
+2024-10-06T03:35:07.666Z [WARN]: Endpoint not found: /flights/flights/search?origin=MTY&destination=TLC
+2024-10-06T03:35:08.190Z [WARN]: Endpoint not found: /flights/flights/search?origin=MTY&destination=TLC
+2024-10-06T03:35:14.651Z [INFO]: Fetched all flights
+2024-10-06T03:35:18.231Z [WARN]: Endpoint not found: /flights/flights/search?origin=MTY&destination=TLC
+2024-10-06T03:35:18.951Z [WARN]: Endpoint not found: /flights/flights/search?origin=MTY&destination=TLC
+2024-10-06T03:35:26.934Z [ERROR]: Error processing flight search: origin_name is not defined
+2024-10-06T03:36:13.823Z [INFO]: Server is running on port 3000
+2024-10-06T03:36:13.881Z [INFO]: CSV file successfully processed and loaded without duplicates.
+2024-10-06T03:36:18.966Z [INFO]: Fetched all flights
+2024-10-06T03:36:21.206Z [INFO]: Search results found for origin: MTY, destination: TLC
+2024-10-06T03:36:35.232Z [INFO]: Search results found for origin: MTY, destination: undefined
