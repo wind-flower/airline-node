@@ -1,11 +1,14 @@
 const express = require('express');
 const fs = require('fs');
 const csv = require('csv-parser');
-const axios = require('axios'); // For making web service requests
+const axios = require('axios'); 
 const NodeCache = require('node-cache'); // In-memory cache
 const winston = require('winston'); // Logging library
 const app = express();
 const PORT = process.env.PORT || 3000;
+const cors = require('cors');
+
+app.use(cors());
 
 // Setup logger
 const logger = winston.createLogger({
@@ -120,10 +123,14 @@ app.get('/flights/search', async (req, res) => {
   }
 });
 
-// Error handling middleware for unknown routes
-app.use((req, res) => {
+
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
   logger.warn(`Endpoint not found: ${req.originalUrl}`);
   res.status(404).json({ message: 'Endpoint not found' });
+  next();
 });
 
 // Start server

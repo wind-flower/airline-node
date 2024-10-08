@@ -1,0 +1,17 @@
+@use '@angular/material' as mat;
+
+// Include Angular Material core styles
+@include mat.core();
+
+
+// Add any global styles you want
+html, body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

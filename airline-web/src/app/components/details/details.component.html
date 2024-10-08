@@ -1,0 +1,26 @@
+<mat-card *ngIf="flight">
+  <mat-card-header>
+    <mat-card-title>Flight Details</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <p><strong>Flight Number:</strong> {{ flight?.flight_num }}</p>
+    <p><strong>Origin:</strong> {{ flight?.origin }} </p>
+    <p><strong>Destination:</strong> {{ flight?.destination }}</p>
+    <p><strong>Departure Name:</strong> {{ flight?.origin_name }}</p>
+    <p><strong>Arrival Name:</strong> {{ flight?.destination_name }}</p>
+
+    <p><strong>Origin Weather:</strong> {{ flight?.origin_weather }}</p>
+    <p><strong>Destination Weather:</strong> {{ flight?.destination_weather }}</p>
+  </mat-card-content>
+  <mat-dialog-actions>
+    <button mat-button mat-dialog-close (click)="closeDialog()">Close</button>
+  </mat-dialog-actions>
+</mat-card>
+
+<!-- Loading Spinner -->
+<mat-spinner *ngIf="isLoading"></mat-spinner>
+
+<!-- Error Message -->
+<div *ngIf="errorMessage" class="error-message">
+  <p>{{ errorMessage }}</p>
+</div>

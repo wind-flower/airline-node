@@ -1,0 +1,13 @@
+<section class="searchSection">
+    <mat-form-field appearance="outline">
+      <mat-label>Origin</mat-label>
+      <input matInput [(ngModel)]="searchOrigin" placeholder="Search by origin">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Destination</mat-label>
+      <input matInput [(ngModel)]="searchDestination" placeholder="Search by destination">
+    </mat-form-field>
+
+    <button mat-fab extended color="primary" (click)="search()">Search</button>
+</section>

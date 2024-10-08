@@ -1,0 +1,10 @@
+
+<h2>Flights information</h2>
+<app-search (searchValues)="onSearch($event)"></app-search>
+<app-table
+  [dataSource]="filteredData"
+  [isLoading]="isLoading"
+  [errorMessage]="errorMessage"
+></app-table>
+
+<router-outlet></router-outlet>

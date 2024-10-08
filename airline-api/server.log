@@ -23,3 +23,167 @@
 2024-10-06T03:36:18.966Z [INFO]: Fetched all flights
 2024-10-06T03:36:21.206Z [INFO]: Search results found for origin: MTY, destination: TLC
 2024-10-06T03:36:35.232Z [INFO]: Search results found for origin: MTY, destination: undefined
+2024-10-08T04:29:13.795Z [INFO]: Server is running on port 3000
+2024-10-08T04:29:13.886Z [INFO]: CSV file successfully processed and loaded without duplicates.
+2024-10-08T13:53:02.159Z [INFO]: Server is running on port 3000
+2024-10-08T13:53:02.258Z [INFO]: CSV file successfully processed and loaded without duplicates.
+2024-10-08T14:17:55.132Z [INFO]: Fetched all flights
+2024-10-08T14:19:35.521Z [INFO]: Fetched all flights
+2024-10-08T14:21:20.771Z [INFO]: Fetched all flights
+2024-10-08T14:41:44.602Z [INFO]: Fetched all flights
+2024-10-08T14:44:43.599Z [INFO]: Server is running on port 3000
+2024-10-08T14:44:43.672Z [INFO]: CSV file successfully processed and loaded without duplicates.
+2024-10-08T14:44:52.832Z [INFO]: Fetched all flights
+2024-10-08T14:46:36.812Z [INFO]: Fetched all flights
+2024-10-08T14:46:44.095Z [INFO]: Fetched all flights
+2024-10-08T14:46:44.968Z [INFO]: Fetched all flights
+2024-10-08T14:46:45.711Z [INFO]: Fetched all flights
+2024-10-08T14:54:07.002Z [INFO]: Server is running on port 3000
+2024-10-08T14:54:07.076Z [INFO]: CSV file successfully processed and loaded without duplicates.
+2024-10-08T14:54:16.873Z [INFO]: Fetched all flights
+2024-10-08T15:06:48.442Z [INFO]: Fetched all flights
+2024-10-08T15:08:10.648Z [INFO]: Fetched all flights
+2024-10-08T15:08:18.249Z [INFO]: Fetched all flights
+2024-10-08T15:08:23.581Z [INFO]: Fetched all flights
+2024-10-08T15:48:49.141Z [INFO]: Fetched all flights
+2024-10-08T15:49:02.015Z [INFO]: Fetched all flights
+2024-10-08T15:49:36.361Z [INFO]: Fetched all flights
+2024-10-08T15:50:31.579Z [INFO]: Fetched all flights
+2024-10-08T15:50:36.545Z [INFO]: Fetched all flights
+2024-10-08T15:55:16.789Z [INFO]: Fetched all flights
+2024-10-08T15:58:22.259Z [INFO]: Fetched all flights
+2024-10-08T15:59:01.304Z [INFO]: Fetched all flights
+2024-10-08T15:59:27.301Z [INFO]: Fetched all flights
+2024-10-08T16:00:06.836Z [INFO]: Fetched all flights
+2024-10-08T16:00:14.983Z [INFO]: Fetched all flights
+2024-10-08T16:00:24.551Z [INFO]: Fetched all flights
+2024-10-08T16:00:35.956Z [INFO]: Fetched all flights
+2024-10-08T16:01:30.510Z [INFO]: Fetched all flights
+2024-10-08T16:04:42.253Z [INFO]: Fetched all flights
+2024-10-08T16:05:14.757Z [INFO]: Fetched all flights
+2024-10-08T16:06:15.779Z [INFO]: Fetched all flights
+2024-10-08T16:06:54.672Z [INFO]: Fetched all flights
+2024-10-08T16:21:37.042Z [INFO]: Fetched all flights
+2024-10-08T16:21:46.212Z [INFO]: Fetched all flights
+2024-10-08T16:27:15.943Z [INFO]: Fetched all flights
+2024-10-08T16:27:55.224Z [INFO]: Fetched all flights
+2024-10-08T16:28:00.177Z [INFO]: Fetched all flights
+2024-10-08T16:28:41.680Z [INFO]: Fetched all flights
+2024-10-08T16:29:23.259Z [INFO]: Cache miss, flight 104 fetched and cached.
+2024-10-08T16:29:34.672Z [INFO]: Fetched all flights
+2024-10-08T16:29:34.711Z [INFO]: Cache miss, flight 2930 fetched and cached.
+2024-10-08T16:29:43.287Z [INFO]: Fetched all flights
+2024-10-08T16:29:43.335Z [INFO]: Cache hit for flight 2930
+2024-10-08T16:30:36.264Z [INFO]: Fetched all flights
+2024-10-08T16:30:36.312Z [INFO]: Cache hit for flight 2930
+2024-10-08T16:30:58.806Z [INFO]: Fetched all flights
+2024-10-08T16:31:37.131Z [INFO]: Fetched all flights
+2024-10-08T16:31:39.981Z [INFO]: Fetched all flights
+2024-10-08T16:32:33.745Z [INFO]: Fetched all flights
+2024-10-08T16:32:37.137Z [INFO]: Fetched all flights
+2024-10-08T16:32:46.407Z [INFO]: Fetched all flights
+2024-10-08T16:32:57.225Z [INFO]: Fetched all flights
+2024-10-08T16:33:00.524Z [INFO]: Cache miss, flight 3704 fetched and cached.
+2024-10-08T16:33:23.585Z [INFO]: Fetched all flights
+2024-10-08T16:33:23.638Z [INFO]: Cache hit for flight 3704
+2024-10-08T16:33:30.582Z [INFO]: Fetched all flights
+2024-10-08T16:33:30.639Z [INFO]: Fetched all flights
+2024-10-08T16:33:46.059Z [INFO]: Fetched all flights
+2024-10-08T16:33:46.114Z [INFO]: Fetched all flights
+2024-10-08T16:34:18.766Z [INFO]: Fetched all flights
+2024-10-08T16:34:28.046Z [INFO]: Fetched all flights
+2024-10-08T16:34:31.664Z [INFO]: Cache miss, flight 1104 fetched and cached.
+2024-10-08T16:40:02.734Z [INFO]: Fetched all flights
+2024-10-08T17:06:25.835Z [INFO]: Fetched all flights
+2024-10-08T17:07:56.316Z [INFO]: Fetched all flights
+2024-10-08T17:09:34.702Z [INFO]: Fetched all flights
+2024-10-08T17:09:38.802Z [INFO]: Fetched all flights
+2024-10-08T17:12:10.245Z [INFO]: Fetched all flights
+2024-10-08T17:13:37.534Z [INFO]: Fetched all flights
+2024-10-08T17:14:59.964Z [INFO]: Fetched all flights
+2024-10-08T17:15:09.635Z [INFO]: Fetched all flights
+2024-10-08T17:15:20.038Z [INFO]: Fetched all flights
+2024-10-08T17:18:16.567Z [INFO]: Fetched all flights
+2024-10-08T17:21:35.385Z [INFO]: Fetched all flights
+2024-10-08T17:21:39.686Z [INFO]: Fetched all flights
+2024-10-08T17:22:25.839Z [INFO]: Fetched all flights
+2024-10-08T17:56:31.334Z [INFO]: Fetched all flights
+2024-10-08T17:56:33.386Z [INFO]: Cache miss, flight 104 fetched and cached.
+2024-10-08T17:56:40.442Z [INFO]: Cache miss, flight 2104 fetched and cached.
+2024-10-08T17:56:44.857Z [INFO]: Cache hit for flight 104
+2024-10-08T17:56:51.742Z [INFO]: Cache hit for flight 104
+2024-10-08T17:57:59.230Z [INFO]: Fetched all flights
+2024-10-08T17:58:27.267Z [INFO]: Fetched all flights
+2024-10-08T17:58:41.083Z [INFO]: Fetched all flights
+2024-10-08T17:59:09.937Z [INFO]: Fetched all flights
+2024-10-08T17:59:20.604Z [INFO]: Cache miss, flight 2100 fetched and cached.
+2024-10-08T18:09:13.859Z [INFO]: Cache miss, flight 2108 fetched and cached.
+2024-10-08T18:11:15.336Z [INFO]: Fetched all flights
+2024-10-08T18:11:17.825Z [INFO]: Cache miss, flight 2101 fetched and cached.
+2024-10-08T18:11:57.223Z [INFO]: Fetched all flights
+2024-10-08T18:11:58.933Z [INFO]: Cache miss, flight 2102 fetched and cached.
+2024-10-08T18:12:05.150Z [INFO]: Fetched all flights
+2024-10-08T18:12:06.657Z [INFO]: Cache hit for flight 2101
+2024-10-08T18:12:30.538Z [INFO]: Fetched all flights
+2024-10-08T18:12:32.537Z [INFO]: Cache hit for flight 2102
+2024-10-08T18:12:34.210Z [INFO]: Cache miss, flight 2103 fetched and cached.
+2024-10-08T18:14:22.371Z [INFO]: Fetched all flights
+2024-10-08T18:14:27.621Z [INFO]: Fetched all flights
+2024-10-08T18:15:42.909Z [INFO]: Fetched all flights
+2024-10-08T18:15:49.297Z [INFO]: Fetched all flights
+2024-10-08T18:16:05.443Z [INFO]: Fetched all flights
+2024-10-08T18:22:24.985Z [INFO]: Fetched all flights
+2024-10-08T18:22:34.174Z [INFO]: Search results found for origin: TLC, destination: 
+2024-10-08T18:22:39.415Z [INFO]: Search results found for origin: MTY, destination: 
+2024-10-08T18:22:47.005Z [INFO]: Fetched all flights
+2024-10-08T18:25:04.333Z [INFO]: Fetched all flights
+2024-10-08T18:25:10.381Z [WARN]: No flights found for origin: wr, destination: 
+2024-10-08T18:25:12.108Z [WARN]: No flights found for origin: wr, destination: 
+2024-10-08T18:25:30.460Z [INFO]: Search results found for origin: GDL, destination: 
+2024-10-08T18:25:42.993Z [INFO]: Cache miss, flight 2203 fetched and cached.
+2024-10-08T18:26:21.388Z [INFO]: Fetched all flights
+2024-10-08T18:26:23.734Z [INFO]: Fetched all flights
+2024-10-08T18:27:11.649Z [INFO]: Fetched all flights
+2024-10-08T18:33:57.771Z [INFO]: Fetched all flights
+2024-10-08T18:34:00.821Z [INFO]: Cache miss, flight 2103 fetched and cached.
+2024-10-08T18:34:03.637Z [INFO]: Cache hit for flight 2103
+2024-10-08T18:35:17.770Z [INFO]: Cache miss, flight 2102 fetched and cached.
+2024-10-08T18:36:10.519Z [INFO]: Fetched all flights
+2024-10-08T18:37:03.310Z [INFO]: Fetched all flights
+2024-10-08T18:37:55.842Z [INFO]: Fetched all flights
+2024-10-08T18:38:18.981Z [INFO]: Fetched all flights
+2024-10-08T18:38:26.630Z [INFO]: Fetched all flights
+2024-10-08T18:38:48.252Z [INFO]: Fetched all flights
+2024-10-08T18:39:13.741Z [INFO]: Fetched all flights
+2024-10-08T18:39:42.275Z [INFO]: Fetched all flights
+2024-10-08T18:40:14.781Z [INFO]: Fetched all flights
+2024-10-08T18:42:50.181Z [INFO]: Fetched all flights
+2024-10-08T18:43:08.188Z [INFO]: Fetched all flights
+2024-10-08T18:43:37.878Z [INFO]: Cache miss, flight 119 fetched and cached.
+2024-10-08T18:45:35.498Z [INFO]: Fetched all flights
+2024-10-08T18:49:13.233Z [INFO]: Fetched all flights
+2024-10-08T18:49:17.594Z [INFO]: Fetched all flights
+2024-10-08T18:49:32.059Z [INFO]: Fetched all flights
+2024-10-08T18:49:34.976Z [INFO]: Fetched all flights
+2024-10-08T18:58:52.114Z [INFO]: Fetched all flights
+2024-10-08T18:58:53.324Z [INFO]: Cache miss, flight 104 fetched and cached.
+2024-10-08T18:58:59.394Z [INFO]: Cache miss, flight 2100 fetched and cached.
+2024-10-08T19:01:25.294Z [INFO]: Fetched all flights
+2024-10-08T19:01:26.708Z [INFO]: Cache miss, flight 119 fetched and cached.
+2024-10-08T19:01:29.028Z [INFO]: Cache miss, flight 2104 fetched and cached.
+2024-10-08T19:01:31.608Z [INFO]: Cache miss, flight 2106 fetched and cached.
+2024-10-08T19:01:33.582Z [INFO]: Cache hit for flight 104
+2024-10-08T19:01:37.922Z [INFO]: Cache miss, flight 2154 fetched and cached.
+2024-10-08T19:01:42.115Z [INFO]: Cache miss, flight 2153 fetched and cached.
+2024-10-08T19:01:44.440Z [INFO]: Cache hit for flight 2154
+2024-10-08T19:01:46.359Z [INFO]: Cache hit for flight 2153
+2024-10-08T19:03:41.997Z [INFO]: Fetched all flights
+2024-10-08T19:03:53.528Z [INFO]: Fetched all flights
+2024-10-08T19:04:07.049Z [INFO]: Fetched all flights
+2024-10-08T19:04:23.602Z [INFO]: Cache miss, flight 2101 fetched and cached.
+2024-10-08T19:06:06.039Z [INFO]: Cache hit for flight 2101
+2024-10-08T19:12:29.065Z [INFO]: Fetched all flights
+2024-10-08T19:12:30.780Z [INFO]: Cache miss, flight 104 fetched and cached.
+2024-10-08T19:12:36.788Z [INFO]: Cache miss, flight 2108 fetched and cached.
+2024-10-08T19:16:33.927Z [INFO]: Fetched all flights
+2024-10-08T19:17:21.862Z [INFO]: Fetched all flights
